@@ -1,14 +1,21 @@
 # server
 * setup ftp
-* setup docker
+* add ssh key
 * setup docker
 * setup docker-compose
 
 # Todo
-* new Repo 
-* Generic Hello World Application with DB(ZE)
+* Generic Doctrine Hello World Application
+* ZE + Doctrine
 * Generic Unit Test
-* dockerized
-* travis ci pipeline for building docker image
-* push docker image to dockercloud
-* autodeploy to server
+* docker
+* travis ci pipeline
+* nginx, mysql
+
+# pipeline
+* composer
+* linting
+* phpunit
+* build docker image
+* push image to dockercloud
+* deploy
