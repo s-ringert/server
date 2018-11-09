@@ -4,7 +4,7 @@
 * setup docker
 * setup docker-compose
 
-# Todo
+# Application
 * Generic Doctrine Hello World Application
 * ZE + Doctrine
 * Generic Unit Test
