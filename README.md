@@ -3,7 +3,6 @@
 * setup docker
 * setup docker
 * setup docker-compose
-* setup docker registry
 
 # Todo
 * new Repo 
