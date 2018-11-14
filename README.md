@@ -10,8 +10,7 @@
 * fail2ban
 * firewall (UFW)
 
-# server applications
-* ftp
+# server applications (DONE)
 * docker
 * docker-compose
 
