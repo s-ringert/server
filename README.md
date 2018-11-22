@@ -29,3 +29,8 @@
 * build docker image
 * push image to dockercloud
 * deploy
+
+
+
+# coming soon
+* traefik - reverse proxy for subdomains
