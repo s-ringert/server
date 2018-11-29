@@ -1,4 +1,4 @@
-# server setup  (DONE)
+# server setup
 * fresh install
 * change root pw
 * full apt update
@@ -10,27 +10,9 @@
 * fail2ban
 * firewall (UFW)
 
-# server applications (DONE)
+# server applications
 * docker
 * docker-compose
 
-# Application
-* Generic Doctrine Hello World Application
-* ZE + Doctrine
-* Generic Unit Test
-* docker
-* travis ci pipeline
-* nginx, mysql
-
-# pipeline
-* composer
-* linting
-* phpunit
-* build docker image
-* push image to dockercloud
-* deploy
-
-
-
 # coming soon
-* traefik - reverse proxy for subdomains
+* traefik - reverse proxy
